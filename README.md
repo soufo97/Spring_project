@@ -11,9 +11,9 @@
   - springboot , MySQL , JPA , Thymeleaf
   
   - Spring Boot | Project : Gradle - Groovy , Java | 2.7.7 | Jar | Java 11
-    Dependencies : Lombok | Spring Web | MySQL Driver | Thymeleaf | Spring Data JPA
+  - Dependencies : Lombok | Spring Web | MySQL Driver | Thymeleaf | Spring Data JPA
 
-    MySQL | 8.0 Server 
+  - MySQL | 8.0 Server 
   
 ## 🟡 ERD
    ![erd](https://user-images.githubusercontent.com/117828769/224626103-91102186-ebf7-4e07-a2f3-5fbb4e2df13f.png)
