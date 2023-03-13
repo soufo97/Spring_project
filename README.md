@@ -16,5 +16,7 @@
     MySQL | 8.0 Server 
   
 ## 🟡 ERD
+  - ![erd](https://user-images.githubusercontent.com/117828769/224626103-91102186-ebf7-4e07-a2f3-5fbb4e2df13f.png)
 
 ## 🟡 플로우차트
+  - ![플로우차트](https://user-images.githubusercontent.com/117828769/224626123-3aaae2d0-320d-43d6-817b-64229ca43026.png)
